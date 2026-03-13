@@ -1,2 +1,4 @@
-# documentation
-Technical documentation, including harmonisation decisions, protocols and processes.
+# Documentation
+
+Contains technical documentation which outline processes and protocols used during the ETL process and
+harmonisation decisions.
